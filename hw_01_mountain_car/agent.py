@@ -1,6 +1,4 @@
-import random
 import numpy as np
-import os
 from train import transform_state
 
 
@@ -10,7 +8,7 @@ class Agent:
 
     def act(self, state):
         state = transform_state(state)
-        return 0
+        return np.argmax(self.qlearning_estimate[state])
 
     def reset(self):
         pass
