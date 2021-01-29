@@ -13,8 +13,8 @@
 <details>
   <summary>List of topics</summary>
 
-### 1. [Mountain Car: решаем классическую задачу при помощи обучения с подкреплением](https://habr.com/ru/company/hsespb/blog/444428/)
+#### 1. [Mountain Car: решаем классическую задачу при помощи обучения с подкреплением](https://habr.com/ru/company/hsespb/blog/444428/)
 
-### 2. [Понимание Q-learning, проблема «Прогулка по скале»](https://habr.com/ru/post/443240/)
+#### 2. [Понимание Q-learning, проблема «Прогулка по скале»](https://habr.com/ru/post/443240/)
 
 </details>
