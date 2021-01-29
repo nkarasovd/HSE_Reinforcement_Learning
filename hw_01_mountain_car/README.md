@@ -17,4 +17,6 @@
 
 #### 2. [Понимание Q-learning, проблема «Прогулка по скале»](https://habr.com/ru/post/443240/)
 
+#### 3. [Approximate Q-Learning](https://courses.cs.washington.edu/courses/cse473/16au/slides-16au/18-approx-rl2.pdf)
+
 </details>
