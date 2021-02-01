@@ -19,4 +19,6 @@
 
 #### 3. [Approximate Q-Learning](https://courses.cs.washington.edu/courses/cse473/16au/slides-16au/18-approx-rl2.pdf)
 
+#### 4. [Если не работает анимация на macOS BigSur](https://github.com/pyglet/pyglet/issues/274)
+
 </details>
