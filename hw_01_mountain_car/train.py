@@ -3,6 +3,7 @@ import numpy as np
 import random
 from typing import Tuple, List
 
+
 GAMMA = 0.98
 GRID_SIZE = 50
 GRID_SIZE_X = 50
@@ -111,7 +112,8 @@ if __name__ == '__main__':
     state = transform_state(state, _min, _max)
 
     for i in range(transitions):
-        steps = 0
+        # Анимация
+        # env.render()
 
         # Epsilon-greedy policy
         if random.random() < eps:
